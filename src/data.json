@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+        "task":"complete assignment",
+        "complete":true
+    },
+    {
+        "id":2,
+        "task":"attend c class",
+        "complete":true
+    },
+    {
+        "id":3,
+        "task":"read novel",
+        "complete":false
+    },
+    {
+        "id":4,
+        "task":" practice coding",
+        "complete":true
+    }
+   
+]
